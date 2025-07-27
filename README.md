@@ -23,9 +23,14 @@ An interactive Power BI report analyzing Saudi commercial records by capital, ti
 
 ```DAX
 -BranchCapital = CALCULATE(SUM(Fact_Registrations[Capital]), Dim_CR_Type[CR_Type] = "فرعي")
+.
+.
 -TotalCapitalinReagion = CALCULATE(SUM(Fact_Registrations[Capital]), Dim_Region[Region_Name]= Dim_Region[Region_Name])
+.
+.
 -CR of City = CALCULATE(SUM(Fact_Registrations[Capital]), Dim_City[City_Name] = "الرياض")
-
+.
+.
 -CR_Type_Percentage :=
 DIVIDE(
     COUNT(Fact_Registrations[CR_Number]),
