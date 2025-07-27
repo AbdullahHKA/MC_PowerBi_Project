@@ -7,7 +7,7 @@ An interactive Power BI report analyzing Saudi commercial records by capital, ti
 - Total capital (main & branch)
 - Record count by region, city, and month
 - Average capital per region
-- Monthly registrations (Q1 focus)
+- Monthly registrations (2023-Q1 focus)
 - Record types and legal classifications
 
 ## File
