@@ -1,5 +1,5 @@
 # MC_PowerBi_Project
-# Saudi Commercial Records Dashboard - Power BI
+# Saudi Commercial Records OpenData Dashboard - Power BI
 
 An interactive Power BI report analyzing Saudi commercial records by capital, time, record type, and legal status.
 
